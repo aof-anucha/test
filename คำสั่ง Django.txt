@@ -1,0 +1,8 @@
+คำสั่ง Django
+django-admin startproject mysite
+py manage.py runserver
+python manage.py startapp polls
+
+
+118/191-192
+20-06 อายุ 25
